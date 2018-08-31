@@ -16,6 +16,8 @@ Navigate to the root of the repository from your Terminal and run `make` to buil
 
 ## How to use
 
+Lunch the Binary in the root of the project.
+
 The game asks you to chose a line, then the amount of stick you want to remove starting from the right of the line. The goal is to make the AI remove the last match. Good luck !!
 
 ## Author
